@@ -1,0 +1,12 @@
+# Ignore CSV files
+*.csv
+
+# Ignore virtual environments
+.venv/
+
+# Ignore pycache
+__pychache__/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
